@@ -7,5 +7,5 @@ assignees: ''
 
 ---
 
-**Kérlek írd le az ötlet részleteit.**
+*Kérlek írd le az ötlet részleteit.*
 Egy bő, jól érthető leírás az ötletedhez!
